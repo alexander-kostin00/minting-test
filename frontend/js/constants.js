@@ -1,7 +1,7 @@
 const contractAddress = "0xcedE0ba29b1DD6771D1B9e65422463f748F8414C"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Possessed NFT Project!!";
+const welcome_h1 = "Welcome to the Possessed NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Possessed NFT Project is a contained outbreak of 5,000 animated NFTs';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
