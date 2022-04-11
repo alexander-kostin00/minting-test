@@ -49,7 +49,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'pssssdnft.xyz';
+const CONTRACT_NAME = 'The Possessed NFT Collection';
 const CONTRACT_SYMBOL = 'PSSSSD';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xF7b6c9e3292030398825efB259abe77694E08135';
